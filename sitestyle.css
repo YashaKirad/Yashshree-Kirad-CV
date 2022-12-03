@@ -1,0 +1,108 @@
+body{
+    margin:auto;
+   
+}
+
+.top{
+    margin:auto ;
+    background-image: url("images/watercolor6.jpg");
+    background-repeat: no-repeat, repeat;
+   
+}
+h1{
+    color:#112D4E;
+    font-size: 5.625rem;
+    text-align:center;
+    font-family:  sans-serif;
+    margin-bottom: 0px;
+}
+.profile{
+    display: block;
+    margin:auto;
+
+    width:20%;
+    position:relative;
+    
+}
+h2{
+    text-align: center;
+    color:#00ADB5;
+    font-size:2rem;
+}
+p{
+    line-height: 2;
+}
+.a{
+    font-size:1.2rem;
+    width:50%;
+    margin:auto auto 30 auto ;
+    padding:20px;
+}
+hr{
+    border: dotted lightgray 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+.mid{
+    margin:100px 0;
+    font-size:1.2rem;
+ 
+}
+.edu{
+    width:220px;
+    float:left;
+    margin-left:250;
+    margin-right:250;
+    margin-bottom:20;
+    
+}
+.middle{
+    margin:100px 0;
+    
+}
+.code{
+    width:220px;
+    float:right;
+    margin-left:400;
+    margin-right:450;
+    margin-bottom:20;
+    margin-top:45;
+
+}
+
+
+.list{
+    margin:55 auto auto 300;
+    font-size:1.2rem;
+    line-height: 1.4;
+}
+
+.bottom{
+    margin: 0;
+    font-size:1.2rem;
+}
+.self{
+    width:220px;
+    float:left;
+    margin-top:55;
+    margin-left:350;
+    margin-right:150;
+    margin-bottom:20;
+
+}
+.list1{
+    margin: 70 auto;
+    line-height: 2;
+}
+
+
+
+
+.footer{
+    text-align: center;
+    margin: 80 auto auto auto;
+ 
+    
+}
